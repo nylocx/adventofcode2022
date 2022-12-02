@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "adventofcode2022"
+version = "1.0.0"
+description = "My Python solution to the *Advent of Code 2022* challenges"
+authors = ["Alexander Görtz <alex@nyloc.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
