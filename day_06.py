@@ -1,4 +1,4 @@
-#  --- Day :  ---
+#  --- Day 6: Tuning Trouble ---
 # %% Initialization
 def message_position(msg: str, window_size: int) -> int:
     for i in range(len(msg) - window_size + 1):

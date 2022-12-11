@@ -1,4 +1,4 @@
-#  --- Day 1: Calorie Counting ---
+#  --- Day 9: Rope Bridge ---
 # %% Initialization
 import math
 
